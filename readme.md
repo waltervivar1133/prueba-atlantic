@@ -2,5 +2,5 @@ El proyecto solo esta hecho con TailwindCss
 
 
 - Primero debemos descargar el proyecto
-- Segundo NPM INSTALL o YARN INSTALL
+- Adjunto Link del repo : https://atlantic-city.netlify.app/
 - Luego Abrir el Index.html
