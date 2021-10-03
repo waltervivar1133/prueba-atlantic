@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.links-nav {
+  @apply text-white uppercase md:text-base lg:text-lg font-normal
+}
